@@ -1,0 +1,31 @@
+1.Abro meu olho
+2.Viro meu corpo para o lado
+3.Levanto da minha cama e fico de pé
+4.Vou andando até meu banheiro
+5.Abro a porta do meu banheiro
+6.Abro a torneira
+7.Enxaguo meu rosto
+8.Saio do banheiro
+9.Desço as escadas
+10.Vou até a cozinha
+11.Faço café
+12.Tomo o café
+13.Saio da cozinha
+14.Subo as escadas
+15.Vou até meu quarto
+16.Preparo minha roupa
+17.Saio do meu quarto
+18.Vou ao banheiro
+19.Tomo banho
+20.Saio do banho
+21.Saio do banheiro
+22.Vou no meu quarto
+23.Coloco minha roupa
+24.Pego meu celular
+25.Pego minha mochila
+26.Desço as escadas
+27.Abro a porta da sala
+28.Saio de casa
+29.Entro no carro
+30.A caminho do SENAI
+31.Chego no SENAI
